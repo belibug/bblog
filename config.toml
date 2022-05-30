@@ -1,4 +1,4 @@
-baseURL = "https://belibug.github.io/bblog/"
+baseURL = "https://blog.belibug.com/"
 languageCode = "en-us"
 title = "Manjunath Beli's Blog"
 theme = "hugo-ink"
