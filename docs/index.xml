@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manjunath Beli&#39;s Blog</title>
+    <link>https://belibug.github.io/bblog/</link>
+    <description>Recent content on Manjunath Beli&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Mon, 30 May 2022 16:17:51 -0400</lastBuildDate><atom:link href="https://belibug.github.io/bblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://belibug.github.io/bblog/about/</link>
+      <pubDate>Mon, 30 May 2022 16:23:41 -0400</pubDate>
+      
+      <guid>https://belibug.github.io/bblog/about/</guid>
+      <description>This is all about me and myself. I should explain more about me.
+Find me on linkedin</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://belibug.github.io/bblog/posts/whymarkdown/</link>
+      <pubDate>Mon, 30 May 2022 16:17:51 -0400</pubDate>
+      
+      <guid>https://belibug.github.io/bblog/posts/whymarkdown/</guid>
+      <description>Why Markdown I came across markdown not to long ago and its safe to say that it has changed the way I use my device significatnly.
+Convince Adapt Put it to Use This is the biggest one, no matter how many guides you see you wont really start loving until you start using it.</description>
+    </item>
+    
+  </channel>
+</rss>
